@@ -54,3 +54,46 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Gem for slack bot
+gem 'slack-ruby-bot'
+gem 'celluloid-io'
+
+# Gem to run application with token in .env
+gem 'dotenv'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
